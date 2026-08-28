@@ -67,6 +67,3 @@ python -m streamlit run app.py
 The application will automatically open in your web browser at `http://localhost:8501`.
 
 ---
-
-## 📚 Interview Preparation Guide
-See the included `interview_prep.md` file for full Accenture ASE/AAE HR and Technical Q&As, architecture explanations, and tips on how to present this project.
